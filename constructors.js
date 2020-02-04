@@ -65,6 +65,8 @@ function expect(target) {
 //   }
 // }
 
+// classes below: functions commented out
+
 class Dog {
   constructor(props) {
     this.status = "normal"
